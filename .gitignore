@@ -1,1 +1,3 @@
 statcast_2017.csv
+categorical_random_forest_MLB1.pickle
+sgd_classifier.pickle
